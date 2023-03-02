@@ -1,7 +1,7 @@
 from pathlib import Path #import the Path library
 import csv #Import the csv library
 
-filepath = ("Pybank/Resources/budget_data.csv") #Define the filepath
+filepath = ("Resources/budget_data.csv") #Define the filepath
 
 with open (filepath, 'r') as csvfile: # Read the csv file
     
