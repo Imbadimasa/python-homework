@@ -1,3 +1,7 @@
+# Both PyBank and PyRamen assignments have been completed. You will find the 'main' file in the corresponding folders.
+# I have solved the PyRamen challenge in my own way. In my opinion, the result is more comprehensive that way. Also, I did have struggles following the suggested method.
+
+
 # Unit 2 | Homework Assignment: Automate Your Day Job with Python
 
 ## Background
