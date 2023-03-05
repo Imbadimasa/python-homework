@@ -1,0 +1,90 @@
+{
+    "burnt garlic tonkotsu ramen": {
+        "cogs": 54420,
+        "cost": "6",
+        "price": "14",
+        "profit": 72560,
+        "quantity": 9070,
+        "revenue": 126980
+    },
+    "miso crab ramen": {
+        "cogs": 53340,
+        "cost": "6",
+        "price": "12",
+        "profit": 53340,
+        "quantity": 8890,
+        "revenue": 106680
+    },
+    "nagomi shoyu": {
+        "cogs": 45660,
+        "cost": "5",
+        "price": "11",
+        "profit": 54792,
+        "quantity": 9132,
+        "revenue": 100452
+    },
+    "shio ramen": {
+        "cogs": 45900,
+        "cost": "5",
+        "price": "11",
+        "profit": 55080,
+        "quantity": 9180,
+        "revenue": 100980
+    },
+    "soft-shell miso crab ramen": {
+        "cogs": 63910,
+        "cost": "7",
+        "price": "14",
+        "profit": 63910,
+        "quantity": 9130,
+        "revenue": 127820
+    },
+    "spicy miso ramen": {
+        "cogs": 46190,
+        "cost": "5",
+        "price": "12",
+        "profit": 64666,
+        "quantity": 9238,
+        "revenue": 110856
+    },
+    "tonkotsu ramen": {
+        "cogs": 55728,
+        "cost": "6",
+        "price": "13",
+        "profit": 65016,
+        "quantity": 9288,
+        "revenue": 120744
+    },
+    "tori paitan ramen": {
+        "cogs": 54936,
+        "cost": "6",
+        "price": "13",
+        "profit": 64092,
+        "quantity": 9156,
+        "revenue": 119028
+    },
+    "truffle butter ramen": {
+        "cogs": 62874,
+        "cost": "7",
+        "price": "14",
+        "profit": 62874,
+        "quantity": 8982,
+        "revenue": 125748
+    },
+    "vegetarian curry + king trumpet mushroom ramen": {
+        "cogs": 61768,
+        "cost": "7",
+        "price": "13",
+        "profit": 52944,
+        "quantity": 8824,
+        "revenue": 114712
+    },
+    "vegetarian spicy miso": {
+        "cogs": 46080,
+        "cost": "5",
+        "price": "12",
+        "profit": 64512,
+        "quantity": 9216,
+        "revenue": 110592
+    }
+}
